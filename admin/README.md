@@ -14,9 +14,9 @@ npm run dev
 Create `.env` file:
 
 ```bash
-VITE_CLERK_PUBLISHABLE_KEY=<YOUR_CLERK_KEY>
+VITE_CLERK_PUBLISHABLE_KEY=<CLERK_KEY>
 VITE_API_URL=http://localhost:3000/api
-VITE_SENTRY_DSN=<YOUR_SENTRY_DSN>
+VITE_SENTRY_DSN=<SENTRY_DSN>
 ```
 
 ## 🛠️ Scripts
